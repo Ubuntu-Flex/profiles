@@ -1,0 +1,5 @@
+packages:
+  - i3
+  - dmenu
+  - thunar
+  - kitty
